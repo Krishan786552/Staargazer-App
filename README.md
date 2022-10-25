@@ -1,1 +1,1 @@
-# Staargazer-App
+# Stargazer-App
