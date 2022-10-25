@@ -1,6 +1,6 @@
 ### Notes ###
 
-* I did the assignment using Styling Components, which i think is really useful when yo want to have the exact style for a component and reuse it everywhere you want.
+* I did the assignment using Styling Components, which i think is really useful when you want to have the exact style for a component and reuse it everywhere you want.
 
 * I also used ApolloClient created in a separate file (apollo-client.js) in src folder with the objective of having it in a 'global' manner to be able to use it in any other component or hook.
 
